@@ -52,9 +52,6 @@ un grand jeu AAA où les joueurs pourront explorer, coopérer, rêver et s'affro
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="60">
-</p>
 <p align="center" style="font-weight:bold; font-size:1.4em;">
   <span style="color:#FFD700;">...INSERT COIN TO CONTINUE...</span>
 </p>

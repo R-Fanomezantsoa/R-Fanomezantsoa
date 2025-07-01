@@ -5,7 +5,7 @@
 </h1>-->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
-  PLAYER ONE: fanomezantsoa03
+  Hey, Player One! Welcome to my GitHub Profile!
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
 </h1>
 

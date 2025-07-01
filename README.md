@@ -24,22 +24,11 @@
 
 Salut, moi c'est **Fanomezantsoa** !  
 🕹️ Étudiant à <b>42 Antananarivo</b>  
-💾 Passionné par la programmation, les jeux vidéo (surtout les classiques & rétro 👾), et la création d'univers numériques !  
-🎮 Je code surtout en **C**, **C++**, et **C# pour Unity**.
+💾 Passionné par la programmation, les jeux vidéo (surtout les classiques & rétro 👾), et la création d'univers numériques !  🎮
 
 ---
 
-## 🏆 LEVEL 2 : Mes Projets
-
-- 🎯 **C Adventure** : donjons, quêtes, et gestion de mémoire épique en C !
-- 🕹️ **Rétro Platformer** : prototype de jeu inspiré des années 80-90 en C++.
-- 🚀 **Unity Worlds** : premiers pas dans la 3D et le multijoueur avec C# & Unity.
-
-*(Découvre plus dans mes repos !)*
-
----
-
-## 🛠️ LEVEL 3 : Mes Outils
+## 🛠️ LEVEL 2 : Mes Outils
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> **C**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> **C++**
@@ -49,7 +38,7 @@ Salut, moi c'est **Fanomezantsoa** !
 
 ---
 
-## 🌍 LEVEL 4 : Objectif
+## 🌍 LEVEL 3 : Objectif
 
 Créer, un jour, un **monde fantastique multijoueur en ligne** :  
 un grand jeu AAA où les joueurs pourront explorer, coopérer, rêver et s'affronter...  

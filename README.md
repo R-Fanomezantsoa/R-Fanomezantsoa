@@ -3,18 +3,7 @@
   Hey, Player One! Welcome to my GitHub Profile!
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
 </h1> -->
-<h1 align="center">
-  Hey, Player One! Welcome to my GitHub Profile!
-</h1>
-
-<pre align="center">
-🟡 • • • • •
-  🟡 • • • •
-    🟡 • • •
-      🟡 • •
-        🟡 •
-          🟡
-</pre>
+<img src="https://raw.githubusercontent.com/TON-UTILISATEUR/NOM-REPO/main/assets/pacman.gif" width="60">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />

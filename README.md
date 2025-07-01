@@ -52,5 +52,5 @@ un grand jeu AAA où les joueurs pourront explorer, coopérer, rêver et s'affro
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="320"> <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=......+..+...+...+...+......" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
 </p>

@@ -1,8 +1,3 @@
-<!--<h1 align="center">
-  <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
-  PLAYER ONE: <span style="color:#FFD700;">fanomezantsoa</span>
-  <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
-</h1>-->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
   Hey, Player One! Welcome to my GitHub Profile!

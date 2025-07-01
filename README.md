@@ -10,7 +10,7 @@
 
 <p align="center">
 ┌──────────────────────────────────────────────────────────────┐<br>
-  │   🟡 Hey, Player One! Welcome to my GitHub Profile! 🕹️  │<br>
+ │    🟡 Hey, Player One! Welcome to my GitHub Profile! 🕹️    │<br>
 └──────────────────────────────────────────────────────────────┘
 </p>
 

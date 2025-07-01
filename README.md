@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
+</p>
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
   Hey, Player One! Welcome to my GitHub Profile!
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
+</p>
 
 
 <p align="center">

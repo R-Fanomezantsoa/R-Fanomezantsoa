@@ -1,19 +1,14 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
   Hey, Player One! Welcome to my GitHub Profile!
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
-</h1> -->
+</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/42-Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
   <img src="https://img.shields.io/badge/Grade-Cadet-blue?style=for-the-badge" />
   <a href="mailto:r.fanomezantsoa24@gmail.com">
     <img src="https://img.shields.io/badge/email-r.fanomezantsoa24@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/42-Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <a href="mailto:r.fanomezantsoa24@gmail.com"><img src="https://img.shields.io/badge/email-r.fanomezantsoa24@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">

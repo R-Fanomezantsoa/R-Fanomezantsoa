@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
-  PLAYER ONE: <span style="color:#FFD700;">fanomezantsoa03</span>
+  PLAYER ONE: <span style="color:#FFD700;">fanomezantsoa</span>
   <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
 </h1>
 

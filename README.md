@@ -37,8 +37,6 @@ Salut, moi c'est **Fanomezantsoa** !
 
 ---
 
-
-
 <p align="center" style="font-weight:bold; font-size:1.4em;">
   <span style="color:#FFD700;">...INSERT COIN TO CONTINUE...</span>
 </p>

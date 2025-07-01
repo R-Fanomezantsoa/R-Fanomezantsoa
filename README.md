@@ -1,8 +1,21 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
   Hey, Player One! Welcome to my GitHub Profile!
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
+</h1> -->
+<h1 align="center">
+  Hey, Player One! Welcome to my GitHub Profile!
 </h1>
+
+<pre align="center">
+🟡 • • • • •
+  🟡 • • • •
+    🟡 • • •
+      🟡 • •
+        🟡 •
+          🟡
+</pre>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
   <img src="https://img.shields.io/badge/Grade-Cadet-blue?style=for-the-badge" />

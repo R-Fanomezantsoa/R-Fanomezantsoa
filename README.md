@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
 </p>
 <h1 align="center">
@@ -6,7 +6,22 @@
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=••••••••••••••••••••••••••••••••••••••••••" alt="Top Border" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10000&color=FFD700&center=true&vCenter=true&width=20&lines=••••" />
+  <span style="font-size: 1.5rem; font-weight: bold;">🟡 Hey, Player One! Welcome to my GitHub Profile! 🕹️</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10000&color=FFD700&center=true&vCenter=true&width=20&lines=••••" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=••••••••••••••••••••••••••••••••••••••••••" alt="Bottom Border" />
+</p>
+
 
 
 <p align="center">

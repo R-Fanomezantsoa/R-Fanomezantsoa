@@ -45,7 +45,14 @@ un grand jeu AAA où les joueurs pourront explorer, coopérer, rêver et s'affro
   <span style="color:#FFD700;">...INSERT COIN TO CONTINUE...</span>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="320"> <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />
+</p>-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="30" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=FF5733&center=true&vCenter=true&width=250&lines=•+•+•+•+•+•+•+•+•" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=33FF57&center=true&vCenter=true&width=250&lines=•+•+•+•+•+•+•+•+•" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=3399FF&center=true&vCenter=true&width=250&lines=•+•+•+•+•+•+•+•+•" />
 </p>
+

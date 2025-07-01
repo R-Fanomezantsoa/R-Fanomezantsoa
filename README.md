@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="60">
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/42-Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
   <img src="https://img.shields.io/badge/Grade-Cadet-blue?style=for-the-badge" />
   <a href="mailto:r.fanomezantsoa24@gmail.com">
     <img src="https://img.shields.io/badge/email-r.fanomezantsoa24@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white" />

@@ -9,9 +9,9 @@
 </p> -->
 
 <p align="center">
-┌──────────────────────────────────────────────────────────────┐<br>
+┌ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />┐<br>
  │    🟡 Hey, Player One! Welcome to my GitHub Profile! 🕹️    │<br>
-└──────────────────────────────────────────────────────────────┘
+└ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=..............................." alt="Typing SVG" />┘
 </p>
 
 

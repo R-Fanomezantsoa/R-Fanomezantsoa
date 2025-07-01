@@ -1,52 +1,65 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJyMWhoaDBpZmQ0bHc2ZGNqZDR2NTd2d2d6cGE2bXo2d2liYnBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5pT1y3yG3HGW122d1/giphy.gif" width="50">
-  HEY, PLAYER ONE! READY?
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJyMWhoaDBpZmQ0bHc2ZGNqZDR2NTd2d2d6cGE2bXo2d2liYnBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5pT1y3yG3HGW122d1/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
+  PLAYER ONE: <span style="color:#FFD700;">fanomezantsoa03</span>
+  <img src="https://media.giphy.com/media/hV2QW5pQj0F7q/giphy.gif" width="40">
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fanomezantsoa03/fanomezantsoa03/main/pacman.gif" width="100%">
+  <img src="https://img.shields.io/badge/42-Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white" />
+  <a href="mailto:r.fanomezantsoa24@gmail.com"><img src="https://img.shields.io/badge/email-r.fanomezantsoa24@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFtdGJsN2NpejExejA5dWM0Zms0cmg1d3hwejBza2x0aDJ4Z2lwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10nMEo7Un3aU0M/giphy.gif" width="30"> LEVEL 1: CHARACTER SELECT
-
-Salut ! Je suis **fanomezantsoa**, un étudiant-aventurier à [42 Antananarivo](https://antananarivo.42.fr/). 🚀
-
-Ma quête principale ? cree un mode de jeux . Je suis un grand passionné par l'âge d'or des jeux vidéo et la magie de la programmation. Pensez à moi comme un développeur qui a passé trop de temps dans les salles d'arcade. 🕹️
-
----
-<p align="center">▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️</p>
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWJ5bTV6d2w5cDR4b2dyZ3J0bnhwZzI4b2lqY2gzeG9tZzB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lMQPkN3uI4wW4w/giphy.gif" width="30"> LEVEL 2: MISSION LOG
-
-Ici, je documente mes expéditions dans le monde du code. Chaque projet est une nouvelle carte à explorer !
-
-- **Projet A:**
-- **Projet B:** 
-- **Projet C:**
-
----
-<p align="center">▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️</p>
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRkaWU2aGU0amZhamQxZjh6ejVpZzZ0c2lqY3pjZDM4dGRoZ2k1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yp4dG13h2T7k4/giphy.gif" width="30"> LEVEL 3: INVENTORY
-
-Pour mes quêtes de développement, voici mon équipement de prédilection :
-
-- **Armes Principales (Langages) :** `C` `C++` `C#`
-- **Artefact Magique (Editor game engine) :** `Unity` `Defold engine`
-- **Parchemin de Savoir (OS) :** Linux 🐧
-
----
-<p align="center">▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️</p>
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV2bGJ4aWt2dWFyZzhhNjlua2M2b3Zkb3k4b3N0dWRxZDUwb216byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7WA1h2vOLTca44k2p/giphy.gif" width="30"> LEVEL 4: FINAL QUEST
-
-Mon objectif est d'atteindre le *high score* en matière de compétences, de créer des projets qui sortent de l'ordinaire et, pourquoi pas, de développer un jour mon propre jeu . J'adore le mode multijoueur, alors n'hésite pas à me contacter pour une collaboration !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBsczBqd280OXAyb2Y2M2g2b3R2eGJzYjNsc3B6eHoyZzB2ZGR6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA1OFj2x1F19S/giphy.gif" width="150">
+  <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="300">
 </p>
 
-<h2 align="center">
-  ... INSERT COIN TO CONTINUE ...
-</h2>
+---
+
+## 👾 LEVEL 1 : Qui suis-je ?
+
+Salut, moi c'est **Fanomezantsoa** !  
+🕹️ Étudiant à <b>42 Antananarivo</b>  
+💾 Passionné par la programmation, les jeux vidéo (surtout les classiques & rétro 👾), et la création d'univers numériques !  
+🎮 Je code surtout en **C**, **C++**, et **C# pour Unity**.
+
+---
+
+## 🏆 LEVEL 2 : Mes Projets
+
+- 🎯 **C Adventure** : donjons, quêtes, et gestion de mémoire épique en C !
+- 🕹️ **Rétro Platformer** : prototype de jeu inspiré des années 80-90 en C++.
+- 🚀 **Unity Worlds** : premiers pas dans la 3D et le multijoueur avec C# & Unity.
+
+*(Découvre plus dans mes repos !)*
+
+---
+
+## 🛠️ LEVEL 3 : Mes Outils
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> **C**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> **C++**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/> **C# / Unity**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> **Linux**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> **Git**
+
+---
+
+## 🌍 LEVEL 4 : Objectif
+
+Créer, un jour, un **monde fantastique multijoueur en ligne** :  
+un grand jeu AAA où les joueurs pourront explorer, coopérer, rêver et s'affronter...  
+**Le game over, je ne connais pas !**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="60">
+</p>
+<p align="center" style="font-weight:bold; font-size:1.4em;">
+  <span style="color:#FFD700;">...INSERT COIN TO CONTINUE...</span>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravghongde/pacman-animation/master/pacman.gif" width="320"> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=fanomezantsoa03+is+eating+bugs+and+dots..." alt="Typing SVG" />
+</p>

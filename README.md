@@ -12,7 +12,7 @@
 
 Salut ! Je suis **fanomezantsoa**, un étudiant-aventurier à [42 Antananarivo](https://antananarivo.42.fr/). 🚀
 
-Ma quête principale ? cree un mode de jeux . Je suis un grand passionné par l'âge d'or des jeux vidéo et la magie de la programmation. Pensez à moi comme un développeur qui a passé trop de temps dans les salles d'arcade des années 90. 🕹️
+Ma quête principale ? cree un mode de jeux . Je suis un grand passionné par l'âge d'or des jeux vidéo et la magie de la programmation. Pensez à moi comme un développeur qui a passé trop de temps dans les salles d'arcade. 🕹️
 
 ---
 <p align="center">▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️ ▫️ ▪️</p>

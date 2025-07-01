@@ -11,7 +11,7 @@
 
 Salut ! Je suis **fanomezantsoa03**, un étudiant à [42 Antananarivo](https://antananarivo.42.fr/). 🚀
 
-Ma quête principale ? Transformer du café en code tout en chassant les bugs. Je suis passionné par la programmation et l'univers des jeux vidéo rétro. Imagine un mélange entre un développeur moderne et un joueur nostalgique de la Super Nintendo, et tu auras une bonne idée de qui je suis ! 🕹️
+Je suis passionné par la programmation et l'univers des jeux vidéo. Imagine un mélange entre un développeur moderne et un joueur nostalgique de la Super Nintendo, et tu auras une bonne idée de qui je suis ! 🕹️
 
 ---
 
